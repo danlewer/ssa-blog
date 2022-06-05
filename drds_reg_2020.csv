@@ -1,0 +1,589 @@
+year,substance,Under 20,20-29,30-39,40-49,50-69,70 and over
+2020,All drug poisoning,57,431,1062,1395,1370,246
+2019,All drug poisoning,64,470,1052,1347,1241,219
+2018,All drug poisoning,71,509,1076,1369,1092,242
+2017,All drug poisoning,51,406,948,1142,999,210
+2016,All drug poisoning,46,464,969,1161,910,194
+2015,All drug poisoning,54,423,995,1085,913,204
+2014,All drug poisoning,46,415,860,1023,811,191
+2013,All drug poisoning,53,413,805,846,650,188
+2012,All drug poisoning,43,344,677,772,601,160
+2011,All drug poisoning,49,371,698,741,605,188
+2010,All drug poisoning,60,444,834,687,545,177
+2009,All drug poisoning,62,519,825,760,539,173
+2008,All drug poisoning,79,523,870,742,526,188
+2007,All drug poisoning,59,522,820,618,467,154
+2006,All drug poisoning,74,514,756,573,460,193
+2005,All drug poisoning,94,513,867,600,506,182
+2004,All drug poisoning,82,576,847,541,501,240
+2003,All drug poisoning,97,575,826,512,402,211
+2002,All drug poisoning,120,730,839,503,423,215
+2001,All drug poisoning,132,777,892,581,462,249
+2000,All drug poisoning,130,716,883,562,439,202
+1999,All drug poisoning,174,785,923,519,458,251
+1998,All drug poisoning,182,806,821,531,428,208
+1997,All drug poisoning,166,781,683,520,441,226
+1996,All drug poisoning,165,686,678,448,383,258
+1995,All drug poisoning,132,669,632,468,408,231
+1994,All drug poisoning,136,611,561,371,420,251
+1993,All drug poisoning,119,555,471,393,395,245
+2020,of which: Drug misuse,40,278,762,990,828,98
+2019,of which: Drug misuse,41,320,765,901,756,100
+2018,of which: Drug misuse,50,386,779,951,663,88
+2017,of which: Drug misuse,33,309,680,793,593,95
+2016,of which: Drug misuse,31,341,748,845,553,78
+2015,of which: Drug misuse,37,309,743,754,554,82
+2014,of which: Drug misuse,32,313,655,711,452,85
+2013,of which: Drug misuse,30,312,605,574,355,81
+2012,of which: Drug misuse,25,234,498,513,302,64
+2011,of which: Drug misuse,34,278,515,524,309,77
+2010,of which: Drug misuse,39,344,668,471,297,84
+2009,of which: Drug misuse,41,419,656,525,272,63
+2008,of which: Drug misuse,56,431,682,527,250,58
+2007,of which: Drug misuse,40,439,654,419,204,53
+2006,of which: Drug misuse,48,406,586,341,198,58
+2005,of which: Drug misuse,42,405,643,339,188,58
+2004,of which: Drug misuse,45,427,573,276,178,66
+2003,of which: Drug misuse,53,431,553,255,126,62
+2002,of which: Drug misuse,70,564,577,245,152,61
+2001,of which: Drug misuse,76,605,636,324,129,81
+2000,of which: Drug misuse,75,523,581,295,122,58
+1999,of which: Drug misuse,93,565,590,224,114,76
+1998,of which: Drug misuse,98,531,469,234,86,56
+1997,of which: Drug misuse,90,539,349,186,97,59
+1996,of which: Drug misuse,72,446,347,158,76,67
+1995,of which: Drug misuse,67,398,317,147,93,67
+1994,of which: Drug misuse,62,333,262,138,98,74
+1993,of which: Drug misuse,50,272,209,114,98,88
+2020,Any opiate (including unspecified opiates and excluding paracetamol compounds) 5,19,178,549,775,670,72
+2019,Any opiate (including unspecified opiates and excluding paracetamol compounds) 6,17,194,549,704,617,79
+2018,Any opiate (including unspecified opiates and excluding paracetamol compounds) 7,18,236,577,763,546,68
+2017,Any opiate (including unspecified opiates and excluding paracetamol compounds) 8,24,226,531,646,487,71
+2016,Any opiate (including unspecified opiates and excluding paracetamol compounds) 9,17,233,598,687,451,53
+2015,Any opiate (including unspecified opiates and excluding paracetamol compounds) 10,17,216,602,620,472,62
+2014,Any opiate (including unspecified opiates and excluding paracetamol compounds) 11,18,217,532,584,377,58
+2013,Any opiate (including unspecified opiates and excluding paracetamol compounds) 12,10,224,509,495,292,62
+2012,Any opiate (including unspecified opiates and excluding paracetamol compounds) 13,14,172,391,417,256,40
+2011,Any opiate (including unspecified opiates and excluding paracetamol compounds) 14,29,217,443,438,259,53
+2010,Any opiate (including unspecified opiates and excluding paracetamol compounds) 15,33,279,551,374,238,52
+2009,Any opiate (including unspecified opiates and excluding paracetamol compounds) 16,32,343,540,438,210,37
+2008,Any opiate (including unspecified opiates and excluding paracetamol compounds) 17,45,329,549,421,193,38
+2007,Any opiate (including unspecified opiates and excluding paracetamol compounds) 18,28,342,519,331,153,30
+2006,Any opiate (including unspecified opiates and excluding paracetamol compounds) 19,27,314,457,262,154,27
+2005,Any opiate (including unspecified opiates and excluding paracetamol compounds) 20,30,326,518,269,140,28
+2004,Any opiate (including unspecified opiates and excluding paracetamol compounds) 21,33,345,443,209,119,23
+2003,Any opiate (including unspecified opiates and excluding paracetamol compounds) 22,37,329,430,195,80,22
+2002,Any opiate (including unspecified opiates and excluding paracetamol compounds) 23,52,470,497,187,88,23
+2001,Any opiate (including unspecified opiates and excluding paracetamol compounds) 24,63,519,552,257,90,28
+2000,Any opiate (including unspecified opiates and excluding paracetamol compounds) 25,64,457,485,236,73,27
+1999,Any opiate (including unspecified opiates and excluding paracetamol compounds) 26,78,480,489,185,72,28
+1998,Any opiate (including unspecified opiates and excluding paracetamol compounds) 27,83,450,384,172,43,19
+1997,Any opiate (including unspecified opiates and excluding paracetamol compounds) 28,73,475,280,132,55,17
+1996,Any opiate (including unspecified opiates and excluding paracetamol compounds) 29,57,386,290,126,35,20
+1995,Any opiate (including unspecified opiates and excluding paracetamol compounds) 30,52,313,248,103,31,13
+1994,Any opiate (including unspecified opiates and excluding paracetamol compounds) 31,47,274,201,83,31,12
+1993,Any opiate (including unspecified opiates and excluding paracetamol compounds) 32,35,200,134,60,27,15
+2020,Heroin or morphine,12,120,363,476,336,30
+2019,Heroin or morphine,13,133,367,464,318,34
+2018,Heroin or morphine,8,140,394,481,284,29
+2017,Heroin or morphine,15,121,353,395,253,27
+2016,Heroin or morphine,9,152,394,395,238,21
+2015,Heroin or morphine,10,144,402,378,238,29
+2014,Heroin or morphine,8,128,328,311,155,22
+2013,Heroin or morphine,4,120,274,236,106,25
+2012,Heroin or morphine,7,88,193,183,92,16
+2011,Heroin or morphine,8,111,217,167,73,20
+2010,Heroin or morphine,16,159,322,186,88,20
+2009,Heroin or morphine,14,209,334,230,74,19
+2008,Heroin or morphine,17,216,339,232,75,18
+2007,Heroin or morphine,15,225,336,186,59,8
+2006,Heroin or morphine,14,207,307,128,48,9
+2005,Heroin or morphine,13,243,373,140,63,10
+2004,Heroin or morphine,18,254,298,124,45,12
+2003,Heroin or morphine,26,253,277,103,29,8
+2002,Heroin or morphine,33,350,329,103,37,13
+2001,Heroin or morphine,42,386,376,135,31,11
+2000,Heroin or morphine,39,328,324,123,24,13
+1999,Heroin or morphine,48,314,282,84,14,13
+1998,Heroin or morphine,37,268,207,74,15,8
+1997,Heroin or morphine,15,212,145,56,13,3
+1996,Heroin or morphine,13,202,140,58,16,11
+1995,Heroin or morphine,18,138,110,47,11,7
+1994,Heroin or morphine,17,124,83,25,14,7
+1993,Heroin or morphine,6,72,46,20,8,3
+2020,Methadone,2,26,119,218,151,0
+2019,Methadone,0,26,107,157,115,2
+2018,Methadone,2,29,106,183,97,2
+2017,Methadone,1,27,101,148,90,0
+2016,Methadone,2,30,126,171,84,0
+2015,Methadone,1,30,126,163,111,3
+2014,Methadone,3,44,130,147,69,1
+2013,Methadone,4,63,145,153,64,0
+2012,Methadone,6,54,145,145,64,0
+2011,Methadone,14,77,177,159,57,2
+2010,Methadone,8,72,134,96,44,1
+2009,Methadone,12,104,133,120,39,0
+2008,Methadone,20,79,136,113,29,1
+2007,Methadone,11,82,125,79,27,1
+2006,Methadone,11,76,73,56,25,0
+2005,Methadone,12,68,65,57,18,0
+2004,Methadone,10,68,83,40,18,0
+2003,Methadone,7,56,95,36,6,1
+2002,Methadone,10,70,79,29,11,0
+2001,Methadone,14,70,84,56,20,0
+2000,Methadone,19,84,107,49,10,0
+1999,Methadone,27,123,126,48,12,0
+1998,Methadone,45,165,134,53,1,0
+1997,Methadone,52,233,106,40,6,0
+1996,Methadone,43,145,91,41,2,0
+1995,Methadone,30,133,103,32,6,0
+1994,Methadone,30,132,77,23,0,0
+1993,Methadone,28,100,57,19,1,1
+2020,Tramadol,0,16,32,53,87,15
+2019,Tramadol,2,14,30,58,76,21
+2018,Tramadol,2,21,35,66,75,21
+2017,Tramadol,1,14,37,52,63,18
+2016,Tramadol,2,16,25,62,64,15
+2015,Tramadol,4,22,49,49,70,14
+2014,Tramadol,4,22,50,70,81,13
+2013,Tramadol,0,26,49,66,66,13
+2012,Tramadol,1,20,33,55,54,12
+2011,Tramadol,1,15,28,49,52,9
+2010,Tramadol,7,15,26,31,44,9
+2009,Tramadol,2,10,14,31,27,3
+2008,Tramadol,5,5,17,25,28,3
+2007,Tramadol,0,5,14,28,26,6
+2006,Tramadol,0,6,16,20,35,4
+2005,Tramadol,2,2,14,15,12,8
+2004,Tramadol,1,3,8,9,17,5
+2003,Tramadol,0,2,11,12,7,4
+2002,Tramadol,1,1,11,8,11,4
+2001,Tramadol,0,8,5,6,7,2
+2000,Tramadol,0,2,9,5,3,5
+1999,Tramadol,1,1,6,5,5,5
+1998,Tramadol,0,0,1,3,1,2
+1997,Tramadol,0,0,1,1,2,1
+1996,Tramadol,0,0,1,0,0,0
+1995,Tramadol,0,0,0,0,0,0
+1994,Tramadol,0,0,0,0,0,0
+1993,Tramadol,0,0,0,0,0,0
+2020,"Codeine not from compound formulation 5,6",3,11,44,58,79,17
+2019,"Codeine not from compound formulation 5,7",1,11,37,56,55,7
+2018,"Codeine not from compound formulation 5,8",0,21,35,47,55,11
+2017,"Codeine not from compound formulation 5,9",1,15,26,46,57,11
+2016,"Codeine not from compound formulation 5,10",0,11,25,38,49,8
+2015,"Codeine not from compound formulation 5,11",0,17,24,34,40,13
+2014,"Codeine not from compound formulation 5,12",1,19,29,36,42,9
+2013,"Codeine not from compound formulation 5,13",0,15,40,32,31,12
+2012,"Codeine not from compound formulation 5,14",1,5,11,30,23,3
+2011,"Codeine not from compound formulation 5,15",1,5,23,30,21,8
+2010,"Codeine not from compound formulation 5,16",1,8,22,28,25,7
+2009,"Codeine not from compound formulation 5,17",1,9,20,23,30,7
+2008,"Codeine not from compound formulation 5,18",2,8,16,18,22,4
+2007,"Codeine not from compound formulation 5,19",0,7,14,16,14,9
+2006,"Codeine not from compound formulation 5,20",1,7,17,19,12,4
+2005,"Codeine not from compound formulation 5,21",3,2,12,10,13,4
+2004,"Codeine not from compound formulation 5,22",1,6,9,15,17,2
+2003,"Codeine not from compound formulation 5,23",0,3,8,14,9,1
+2002,"Codeine not from compound formulation 5,24",0,10,10,10,5,3
+2001,"Codeine not from compound formulation 5,25",0,4,7,6,4,5
+2000,"Codeine not from compound formulation 5,26",1,5,11,8,6,1
+1999,"Codeine not from compound formulation 5,27",2,2,9,5,5,1
+1998,"Codeine not from compound formulation 5,28",0,6,4,8,4,1
+1997,"Codeine not from compound formulation 5,29",0,8,5,7,8,0
+1996,"Codeine not from compound formulation 5,30",1,1,6,2,4,1
+1995,"Codeine not from compound formulation 5,31",0,7,7,2,1,0
+1994,"Codeine not from compound formulation 5,32",0,3,0,3,1,2
+1993,"Codeine not from compound formulation 5,33",0,5,3,6,6,4
+2020,Dihydrocodeine not from compound formulation 5,0,6,25,37,27,1
+2019,Dihydrocodeine not from compound formulation 6,0,4,19,31,43,5
+2018,Dihydrocodeine not from compound formulation 7,1,6,22,34,32,2
+2017,Dihydrocodeine not from compound formulation 8,0,6,20,26,38,4
+2016,Dihydrocodeine not from compound formulation 9,0,12,24,33,29,2
+2015,Dihydrocodeine not from compound formulation 10,1,9,20,25,36,3
+2014,Dihydrocodeine not from compound formulation 11,0,3,17,27,36,3
+2013,Dihydrocodeine not from compound formulation 12,0,8,21,35,31,7
+2012,Dihydrocodeine not from compound formulation 13,1,9,19,31,36,7
+2011,Dihydrocodeine not from compound formulation 14,2,6,23,38,35,5
+2010,Dihydrocodeine not from compound formulation 15,1,9,19,30,27,4
+2009,Dihydrocodeine not from compound formulation 16,0,14,25,29,26,5
+2008,Dihydrocodeine not from compound formulation 17,0,4,17,24,31,3
+2007,Dihydrocodeine not from compound formulation 18,0,10,27,23,23,2
+2006,Dihydrocodeine not from compound formulation 19,2,5,29,25,30,5
+2005,Dihydrocodeine not from compound formulation 20,3,7,34,31,25,6
+2004,Dihydrocodeine not from compound formulation 21,1,10,25,23,18,5
+2003,Dihydrocodeine not from compound formulation 22,5,14,36,19,22,4
+2002,Dihydrocodeine not from compound formulation 23,5,24,41,24,21,1
+2001,Dihydrocodeine not from compound formulation 24,4,26,38,28,22,7
+2000,Dihydrocodeine not from compound formulation 25,5,18,27,28,21,5
+1999,Dihydrocodeine not from compound formulation 26,4,21,30,33,29,7
+1998,Dihydrocodeine not from compound formulation 27,6,23,24,18,15,6
+1997,Dihydrocodeine not from compound formulation 28,3,22,15,17,21,9
+1996,Dihydrocodeine not from compound formulation 29,1,18,27,14,11,5
+1995,Dihydrocodeine not from compound formulation 30,3,12,16,15,11,3
+1994,Dihydrocodeine not from compound formulation 31,3,6,19,17,8,3
+1993,Dihydrocodeine not from compound formulation 32,2,15,10,10,10,5
+2020,Fentanyl,1,2,13,20,21,0
+2019,Fentanyl,0,4,11,19,24,1
+2018,Fentanyl,1,19,14,21,19,0
+2017,Fentanyl,3,12,21,19,16,4
+2016,Fentanyl,1,5,12,15,20,5
+2015,Fentanyl,1,6,15,3,9,0
+2014,Fentanyl,1,3,14,4,15,3
+2013,Fentanyl,1,6,6,3,5,1
+2012,Fentanyl,0,0,4,10,5,3
+2011,Fentanyl,0,2,8,5,15,1
+2010,Fentanyl,0,2,3,0,5,0
+2009,Fentanyl,0,0,2,1,5,1
+2008,Fentanyl,0,0,2,0,2,2
+2007,Fentanyl,0,2,2,0,0,1
+2006,Fentanyl,0,1,0,2,0,0
+2005,Fentanyl,0,0,2,1,0,0
+2004,Fentanyl,0,0,1,1,0,0
+2003,Fentanyl,0,0,1,1,0,1
+2002,Fentanyl,0,2,1,1,0,0
+2001,Fentanyl,0,1,1,0,1,0
+2000,Fentanyl,0,0,0,0,1,0
+1999,Fentanyl,0,0,0,0,1,0
+1998,Fentanyl,0,0,0,0,0,0
+1997,Fentanyl,0,0,0,0,0,0
+1996,Fentanyl,0,0,0,0,0,0
+1995,Fentanyl,0,0,0,0,0,0
+1994,Fentanyl,0,0,0,0,0,0
+1993,Fentanyl,0,0,0,0,0,0
+2020,Other specified opiate,0,1,0,7,3,1
+2019,Other specified opiate,0,4,5,4,3,1
+2018,Other specified opiate,0,0,2,5,5,0
+2017,Other specified opiate,0,1,1,4,2,1
+2016,Other specified opiate,0,3,2,0,3,0
+2015,Other specified opiate,0,1,0,2,3,0
+2014,Other specified opiate,1,1,4,5,3,2
+2013,Other specified opiate,0,2,1,1,2,1
+2012,Other specified opiate,0,1,2,7,2,0
+2011,Other specified opiate,2,1,2,1,1,2
+2010,Other specified opiate,1,0,4,3,2,3
+2009,Other specified opiate,0,3,3,5,6,2
+2008,Other specified opiate,1,2,2,6,2,0
+2007,Other specified opiate,0,1,2,3,3,2
+2006,Other specified opiate,0,1,5,4,3,2
+2005,Other specified opiate,0,1,2,5,3,1
+2004,Other specified opiate,0,0,2,2,5,0
+2003,Other specified opiate,1,2,2,4,4,0
+2002,Other specified opiate,0,6,8,7,4,1
+2001,Other specified opiate,1,2,10,7,1,2
+2000,Other specified opiate,0,1,5,6,6,3
+1999,Other specified opiate,0,2,14,5,2,3
+1998,Other specified opiate,0,2,6,9,5,1
+1997,Other specified opiate,1,6,7,5,4,2
+1996,Other specified opiate,1,8,12,7,2,2
+1995,Other specified opiate,0,11,9,9,2,3
+1994,Other specified opiate,0,4,11,13,3,0
+1993,Other specified opiate,0,16,11,6,1,1
+2020,Unspecified opiate,0,15,34,56,42,3
+2019,Unspecified opiate,1,9,48,49,48,5
+2018,Unspecified opiate,3,20,44,58,44,12
+2017,Unspecified opiate,1,37,53,57,32,10
+2016,Unspecified opiate,2,25,58,60,32,8
+2015,Unspecified opiate,2,20,65,66,37,6
+2014,Unspecified opiate,0,22,54,52,37,4
+2013,Unspecified opiate,1,19,51,50,16,8
+2012,Unspecified opiate,0,14,32,29,14,3
+2011,Unspecified opiate,0,21,38,36,28,8
+2010,Unspecified opiate,2,33,73,41,17,6
+2009,Unspecified opiate,3,31,55,58,24,1
+2008,Unspecified opiate,3,37,68,47,24,5
+2007,Unspecified opiate,1,29,59,32,8,1
+2006,Unspecified opiate,2,37,46,35,12,2
+2005,Unspecified opiate,1,32,69,36,13,1
+2004,Unspecified opiate,1,31,52,16,7,0
+2003,Unspecified opiate,0,27,50,17,6,1
+2002,Unspecified opiate,6,49,68,17,9,1
+2001,Unspecified opiate,4,56,73,36,8,1
+2000,Unspecified opiate,3,49,49,37,10,0
+1999,Unspecified opiate,5,61,60,25,6,1
+1998,Unspecified opiate,2,42,43,22,3,1
+1997,Unspecified opiate,3,41,23,14,2,2
+1996,Unspecified opiate,6,35,37,10,1,0
+1995,Unspecified opiate,4,37,24,5,1,0
+1994,Unspecified opiate,2,28,26,6,5,1
+1993,Unspecified opiate,1,15,14,4,2,1
+2020,Cocaine,6,85,247,286,152,1
+2019,Cocaine,8,116,248,237,99,0
+2018,Cocaine,7,111,220,201,98,0
+2017,Cocaine,4,69,158,146,55,0
+2016,Cocaine,4,68,127,135,37,0
+2015,Cocaine,3,57,118,101,41,0
+2014,Cocaine,1,52,95,72,27,0
+2013,Cocaine,2,36,63,44,24,0
+2012,Cocaine,1,32,48,43,15,0
+2011,Cocaine,2,27,50,26,6,1
+2010,Cocaine,2,32,62,38,10,0
+2009,Cocaine,2,66,74,47,13,0
+2008,Cocaine,7,78,93,43,14,0
+2007,Cocaine,5,65,85,32,8,1
+2006,Cocaine,11,62,70,32,15,0
+2005,Cocaine,4,51,80,33,8,0
+2004,Cocaine,3,63,62,22,4,0
+2003,Cocaine,2,54,55,12,5,1
+2002,Cocaine,6,55,42,16,9,0
+2001,Cocaine,3,34,39,16,5,0
+2000,Cocaine,6,30,27,17,3,0
+1999,Cocaine,1,37,40,9,1,0
+1998,Cocaine,0,27,25,12,1,0
+1997,Cocaine,1,12,12,2,0,0
+1996,Cocaine,1,5,4,2,1,0
+1995,Cocaine,0,10,7,4,1,0
+1994,Cocaine,2,11,9,0,2,0
+1993,Cocaine,1,2,6,0,2,0
+2020,Any amphetamine,18,33,56,50,37,0
+2019,Any amphetamine,22,26,55,43,39,0
+2018,Any amphetamine,30,52,41,60,27,0
+2017,Any amphetamine,11,34,35,50,20,0
+2016,Any amphetamine,11,32,49,49,20,0
+2015,Any amphetamine,17,39,45,33,23,0
+2014,Any amphetamine,8,43,52,35,13,0
+2013,Any amphetamine,14,37,29,27,13,0
+2012,Any amphetamine,6,33,29,22,7,0
+2011,Any amphetamine,3,17,20,15,7,0
+2010,Any amphetamine,2,6,16,25,7,0
+2009,Any amphetamine,8,26,29,11,2,0
+2008,Any amphetamine,8,30,31,23,7,0
+2007,Any amphetamine,7,38,30,19,3,0
+2006,Any amphetamine,12,33,29,14,4,0
+2005,Any amphetamine,10,41,35,12,5,0
+2004,Any amphetamine,9,29,26,12,4,0
+2003,Any amphetamine,15,29,21,10,5,1
+2002,Any amphetamine,14,43,26,5,6,0
+2001,Any amphetamine,8,49,16,6,0,0
+2000,Any amphetamine,7,22,19,13,0,0
+1999,Any amphetamine,9,38,24,8,3,0
+1998,Any amphetamine,10,28,18,6,1,0
+1997,Any amphetamine,17,24,9,3,3,0
+1996,Any amphetamine,14,21,7,3,1,0
+1995,Any amphetamine,7,30,7,4,1,0
+1994,Any amphetamine,6,23,6,1,1,0
+1993,Any amphetamine,8,30,10,3,0,0
+2020,Ecstasy/MDMA,17,21,21,13,10,0
+2019,Ecstasy/MDMA,22,20,14,15,7,0
+2018,Ecstasy/MDMA,27,34,13,13,5,0
+2017,Ecstasy/MDMA,10,17,16,11,2,0
+2016,Ecstasy/MDMA,11,21,12,13,6,0
+2015,Ecstasy/MDMA,11,23,10,7,6,0
+2014,Ecstasy/MDMA,4,23,18,2,3,0
+2013,Ecstasy/MDMA,8,19,11,3,2,0
+2012,Ecstasy/MDMA,4,13,9,3,2,0
+2011,Ecstasy/MDMA,2,6,3,2,0,0
+2010,Ecstasy/MDMA,2,2,3,1,0,0
+2009,Ecstasy/MDMA,5,13,8,1,0,0
+2008,Ecstasy/MDMA,7,21,7,8,1,0
+2007,Ecstasy/MDMA,6,25,12,4,0,0
+2006,Ecstasy/MDMA,11,20,12,4,1,0
+2005,Ecstasy/MDMA,8,32,12,4,2,0
+2004,Ecstasy/MDMA,8,18,13,3,1,0
+2003,Ecstasy/MDMA,14,24,7,4,1,0
+2002,Ecstasy/MDMA,13,27,12,2,2,0
+2001,Ecstasy/MDMA,7,38,9,1,0,0
+2000,Ecstasy/MDMA,6,10,8,4,0,0
+1999,Ecstasy/MDMA,3,9,9,0,0,0
+1998,Ecstasy/MDMA,3,9,5,0,0,0
+1997,Ecstasy/MDMA,7,6,2,0,0,0
+1996,Ecstasy/MDMA,8,7,1,0,0,0
+1995,Ecstasy/MDMA,5,11,0,1,0,0
+1994,Ecstasy/MDMA,4,14,2,0,0,0
+1993,Ecstasy/MDMA,6,6,0,0,0,0
+2020,Cannabis,0,7,8,10,11,0
+2019,Cannabis,0,10,5,10,6,0
+2018,Cannabis,1,7,8,3,3,0
+2017,Cannabis,0,7,8,7,7,0
+2016,Cannabis,0,6,7,8,3,0
+2015,Cannabis,1,4,6,7,3,0
+2014,Cannabis,0,6,9,9,4,0
+2013,Cannabis,0,3,4,3,1,0
+2012,Cannabis,1,5,4,3,1,0
+2011,Cannabis,0,2,0,5,0,0
+2010,Cannabis,2,1,3,3,2,0
+2009,Cannabis,3,5,6,5,3,0
+2008,Cannabis,1,3,5,5,5,0
+2007,Cannabis,0,5,3,4,0,0
+2006,Cannabis,0,6,6,5,0,0
+2005,Cannabis,1,4,10,3,1,0
+2004,Cannabis,2,4,12,1,0,0
+2003,Cannabis,1,3,5,2,0,0
+2002,Cannabis,2,5,3,1,2,0
+2001,Cannabis,1,8,5,2,0,0
+2000,Cannabis,1,2,6,0,0,0
+1999,Cannabis,1,3,4,0,0,0
+1998,Cannabis,6,2,1,1,0,0
+1997,Cannabis,2,10,2,0,0,0
+1996,Cannabis,3,4,0,2,0,0
+1995,Cannabis,3,6,3,3,1,0
+1994,Cannabis,4,9,6,0,0,0
+1993,Cannabis,2,9,2,0,0,0
+2020,Any new psychoactive substance,2,30,41,40,24,0
+2019,Any new psychoactive substance,0,29,47,35,14,0
+2018,Any new psychoactive substance,2,20,49,33,22,0
+2017,Any new psychoactive substance,1,12,28,12,9,0
+2016,Any new psychoactive substance,4,37,38,29,14,1
+2015,Any new psychoactive substance,8,35,37,24,10,0
+2014,Any new psychoactive substance,6,25,26,21,4,0
+2013,Any new psychoactive substance,6,24,18,12,3,0
+2012,Any new psychoactive substance,3,16,23,11,3,0
+2011,Any new psychoactive substance,0,14,8,7,2,0
+2010,Any new psychoactive substance,2,8,9,3,1,0
+2009,Any new psychoactive substance,0,12,9,2,3,0
+2008,Any new psychoactive substance,2,14,5,3,1,0
+2007,Any new psychoactive substance,0,4,2,3,0,0
+2006,Any new psychoactive substance,1,1,4,2,0,0
+2005,Any new psychoactive substance,0,3,2,0,0,0
+2004,Any new psychoactive substance,0,1,0,0,0,0
+2003,Any new psychoactive substance,0,3,3,0,0,0
+2002,Any new psychoactive substance,1,1,1,2,0,0
+2001,Any new psychoactive substance,0,1,0,0,0,0
+2000,Any new psychoactive substance,0,2,1,0,0,0
+1999,Any new psychoactive substance,0,2,1,0,0,0
+1998,Any new psychoactive substance,0,0,0,0,0,0
+1997,Any new psychoactive substance,0,0,0,0,0,0
+1996,Any new psychoactive substance,0,1,0,0,0,0
+1995,Any new psychoactive substance,0,0,1,0,0,0
+1994,Any new psychoactive substance,0,0,0,0,0,0
+1993,Any new psychoactive substance,0,0,0,0,0,0
+2020,Any benzodiazepine,5,49,122,171,113,16
+2019,Any benzodiazepine,2,44,119,139,86,9
+2018,Any benzodiazepine,4,60,135,139,75,7
+2017,Any benzodiazepine,5,55,124,117,81,9
+2016,Any benzodiazepine,4,56,146,117,74,9
+2015,Any benzodiazepine,3,47,127,112,66,11
+2014,Any benzodiazepine,5,55,125,116,60,11
+2013,Any benzodiazepine,2,46,135,99,49,11
+2012,Any benzodiazepine,4,49,93,81,46,11
+2011,Any benzodiazepine,4,51,100,80,48,10
+2010,Any benzodiazepine,11,65,82,77,49,23
+2009,Any benzodiazepine,6,66,87,61,24,17
+2008,Any benzodiazepine,6,62,60,59,29,14
+2007,Any benzodiazepine,7,39,66,50,27,18
+2006,Any benzodiazepine,3,40,56,27,29,22
+2005,Any benzodiazepine,6,36,63,37,23,25
+2004,Any benzodiazepine,5,59,67,36,41,25
+2003,Any benzodiazepine,8,54,77,36,23,26
+2002,Any benzodiazepine,17,71,58,33,33,29
+2001,Any benzodiazepine,11,69,61,48,23,36
+2000,Any benzodiazepine,7,51,59,37,28,24
+1999,Any benzodiazepine,10,64,88,39,28,33
+1998,Any benzodiazepine,11,72,59,44,30,29
+1997,Any benzodiazepine,9,70,55,40,37,32
+1996,Any benzodiazepine,12,69,58,23,30,30
+1995,Any benzodiazepine,17,70,57,40,58,35
+1994,Any benzodiazepine,13,62,51,43,53,47
+1993,Any benzodiazepine,13,47,62,44,59,53
+2020,Zopiclone / Zolpidem,1,8,33,35,54,15
+2019,Zopiclone / Zolpidem,1,5,35,43,43,13
+2018,Zopiclone / Zolpidem,0,8,24,45,53,13
+2017,Zopiclone / Zolpidem,1,8,25,31,44,17
+2016,Zopiclone / Zolpidem,1,9,15,20,40,9
+2015,Zopiclone / Zolpidem,1,9,15,24,25,13
+2014,Zopiclone / Zolpidem,0,12,18,26,29,15
+2013,Zopiclone / Zolpidem,0,7,20,19,29,11
+2012,Zopiclone / Zolpidem,0,6,16,31,21,9
+2011,Zopiclone / Zolpidem,1,8,12,19,20,11
+2010,Zopiclone / Zolpidem,1,4,12,14,25,11
+2009,Zopiclone / Zolpidem,0,7,12,20,31,9
+2008,Zopiclone / Zolpidem,0,3,5,9,14,5
+2007,Zopiclone / Zolpidem,0,3,10,14,17,7
+2006,Zopiclone / Zolpidem,0,1,12,8,10,8
+2005,Zopiclone / Zolpidem,0,2,13,12,17,4
+2004,Zopiclone / Zolpidem,0,4,17,13,12,11
+2003,Zopiclone / Zolpidem,0,9,7,10,11,3
+2002,Zopiclone / Zolpidem,0,5,10,13,16,3
+2001,Zopiclone / Zolpidem,0,0,10,13,11,3
+2000,Zopiclone / Zolpidem,1,2,11,7,18,2
+1999,Zopiclone / Zolpidem,0,4,3,3,6,4
+1998,Zopiclone / Zolpidem,0,3,2,4,4,1
+1997,Zopiclone / Zolpidem,0,6,2,2,2,0
+1996,Zopiclone / Zolpidem,0,2,2,4,2,0
+1995,Zopiclone / Zolpidem,1,1,2,2,0,0
+1994,Zopiclone / Zolpidem,0,1,2,3,2,1
+1993,Zopiclone / Zolpidem,0,0,0,0,0,0
+2020,Any antidepressant,4,40,77,160,200,36
+2019,Any antidepressant,2,36,70,134,178,23
+2018,Any antidepressant,3,33,97,173,178,34
+2017,Any antidepressant,2,29,63,150,212,28
+2016,Any antidepressant,5,36,85,161,147,26
+2015,Any antidepressant,4,33,99,142,145,24
+2014,Any antidepressant,4,37,91,184,179,22
+2013,Any antidepressant,5,42,92,153,153,21
+2012,Any antidepressant,6,34,89,152,161,26
+2011,Any antidepressant,3,36,86,105,133,30
+2010,Any antidepressant,6,38,79,116,121,21
+2009,Any antidepressant,8,48,78,131,119,22
+2008,Any antidepressant,5,35,81,120,120,22
+2007,Any antidepressant,2,26,76,100,114,17
+2006,Any antidepressant,8,34,70,103,105,16
+2005,Any antidepressant,14,39,96,104,123,25
+2004,Any antidepressant,13,58,109,124,133,32
+2003,Any antidepressant,19,56,109,121,103,24
+2002,Any antidepressant,5,60,108,99,95,16
+2001,Any antidepressant,11,62,107,118,122,32
+2000,Any antidepressant,13,71,103,111,119,24
+1999,Any antidepressant,18,91,148,131,111,34
+1998,Any antidepressant,23,90,155,121,124,25
+1997,Any antidepressant,22,87,125,123,135,32
+1996,Any antidepressant,25,97,138,112,111,25
+1995,Any antidepressant,16,88,132,119,125,31
+1994,Any antidepressant,22,86,118,100,112,28
+1993,Any antidepressant,12,93,82,110,110,28
+2020,Any antipsychotic,2,11,30,55,40,5
+2019,Any antipsychotic,1,20,28,46,45,2
+2018,Any antipsychotic,0,9,34,56,35,3
+2017,Any antipsychotic,1,13,24,46,35,1
+2016,Any antipsychotic,1,15,27,37,33,1
+2015,Any antipsychotic,0,13,29,26,32,1
+2014,Any antipsychotic,0,16,38,48,22,2
+2013,Any antipsychotic,0,15,28,40,22,2
+2012,Any antipsychotic,0,13,27,35,26,1
+2011,Any antipsychotic,2,18,33,33,18,0
+2010,Any antipsychotic,0,11,19,27,27,3
+2009,Any antipsychotic,2,11,29,26,14,1
+2008,Any antipsychotic,2,7,25,31,19,3
+2007,Any antipsychotic,3,7,32,21,19,0
+2006,Any antipsychotic,1,6,29,19,23,0
+2005,Any antipsychotic,0,10,33,29,15,0
+2004,Any antipsychotic,1,14,24,21,16,3
+2003,Any antipsychotic,2,13,18,14,16,3
+2002,Any antipsychotic,0,9,17,10,17,1
+2001,Any antipsychotic,1,12,21,17,14,5
+2000,Any antipsychotic,0,10,23,23,18,2
+1999,Any antipsychotic,0,7,23,15,9,1
+1998,Any antipsychotic,1,9,18,12,14,3
+1997,Any antipsychotic,0,6,12,18,12,0
+1996,Any antipsychotic,2,8,14,20,13,1
+1995,Any antipsychotic,0,7,12,15,17,3
+1994,Any antipsychotic,1,11,10,10,18,6
+1993,Any antipsychotic,0,11,13,11,11,3
+2020,Paracetamol 7,1,12,24,35,101,62
+2019,Paracetamol 8,2,11,30,42,92,34
+2018,Paracetamol 9,5,8,23,33,84,57
+2017,Paracetamol 10,1,9,26,34,103,45
+2016,Paracetamol 11,1,11,23,40,91,53
+2015,Paracetamol 12,3,13,20,36,80,45
+2014,Paracetamol 13,1,10,20,42,88,39
+2013,Paracetamol 14,0,11,31,51,91,42
+2012,Paracetamol 15,0,19,22,36,72,33
+2011,Paracetamol 16,4,11,28,43,72,49
+2010,Paracetamol 17,4,15,23,39,69,49
+2009,Paracetamol 18,3,16,32,56,92,56
+2008,Paracetamol 19,4,21,38,44,87,66
+2007,Paracetamol 20,4,13,33,55,79,58
+2006,Paracetamol 21,9,20,39,76,93,72
+2005,Paracetamol 22,12,32,68,86,139,73
+2004,Paracetamol 23,12,56,102,88,160,99
+2003,Paracetamol 24,13,46,89,104,116,86
+2002,Paracetamol 25,16,53,101,120,132,95
+2001,Paracetamol 26,16,70,120,99,150,98
+2000,Paracetamol 27,23,64,131,98,154,96
+1999,Paracetamol 28,28,71,125,107,170,102
+1998,Paracetamol 29,27,114,121,121,158,92
+1997,Paracetamol 30,21,103,143,145,148,93
+1996,Paracetamol 31,30,73,121,106,128,98
+1995,Paracetamol 32,24,102,113,129,135,86
+1994,Paracetamol 33,20,84,114,87,136,89
+1993,Paracetamol 34,16,121,98,110,127,81
