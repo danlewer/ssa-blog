@@ -103,13 +103,39 @@ png('age_barplots.png', height = 5, width = 6, units = 'in', res = 300, family =
 layout(mat = matrix(c(1:5, 5), ncol = 3), widths = c(2, 2, 1))
 par(xpd = NA, mar = c(0, 0, 3, 0), oma = c(4, 4, 0, 0))
 pt(trt, xax = F, TITLE = 'People in treatment for\nheroin or crack cocaine [1]')
-pt(drd, TITLE = 'Deaths due to\nheroin or morphine [2]')
-pt(ird, xax = F, yax = F, TITLE = 'Injecting-related\nbacterial infections [3]')
+pt(drd, TITLE = 'Age at death due to\nheroin or morphine [2]')
+pt(ird, xax = F, yax = F, TITLE = 'Age at hospital admission due to injecting\n-related bacterial infections [3]')
 pt(uam, yax = F, TITLE = 'Participants in the Unlinked Anonymous Monitoring\nSurvey of People who Inject Drugs [4]')
 plot(1, type = 'n', xlim = c(0, 10), ylim = c(0, 10), xlab = NA, ylab = NA, axes = F)
 ys <- seq(3, 7, length.out = 6)
 rect(2, ys[-length(ys)], 3, ys[-1], col = cols)
 text(3.5, ys[-length(ys)] + diff(ys)/2, c('Under 20', '20-29', '30-39', '40-49', '50+'), adj = 0)
 text(2, max(ys) + diff(ys)[1] / 2, 'Age', adj = 0)
+
+dev.off()
+
+#  ========
+#  DRD plot
+#  --------
+
+drd <- read.csv(url('https://raw.githubusercontent.com/danlewer/ssa-blog/main/drd_summary_reg_2020.csv'))
+setDT(drd)
+drd <- drd[order(year)]
+drd[, nhm := any_opiate - heroin_morphine]
+
+png('drd_crisis.png', height = 4, width = 4.5, units = 'in', res = 300, family = 'Franklin Gothic Book')
+
+par(mar = c(4, 6, 0, 0))
+plot(1, type = 'n', xlim = c(2000, 2020), ylim = c(0, 5000), axes = F, xlab = NA, ylab = NA)
+rect(2000, 0, 2020, 5000, col = 'grey97')
+axis(1, 2000:2020, pos = 0, labels = F, tck = -0.02)
+axis(1, seq(2000, 2020, 5), pos = 0, tck = -0.04, las = 2)
+axis(2, 0:5 * 1000, prettyNum(0:5 * 1000, big.mark = ','), pos = 2000, las = 2)
+with(drd[year >= 2000], {
+  lines(year, drug_poisoning, col = magma(5)[3])
+  points(year, drug_poisoning, pch = 19, cex = 1.5, col = magma(5)[3])
+})
+title(xlab = 'Year of death registration')
+title(ylab = 'Number of deaths due to drug poisoning\nin England and Wales', line = 3.5)
 
 dev.off()
